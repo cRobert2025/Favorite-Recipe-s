@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(240, 206, 162);
+}
+
+.pic_o_chick {
+    height: 300px;
+    position: relative;
+    bottom: 40px;
+    
+    
+}
+
+.dads-chicken {
+    display: flex;
+    gap: 100px;
+    margin-left: 10em;
+}
+
+.title {
+    text-align: center;
+}
+.recipe-title{
+    margin-left: 30px ;
+}
+.other-pic {
+    height: 300px;
+    position: relative;
+    bottom: 30px;
+}
+
+.List {
+    font-weight: bold;
+    font-size: large;
+}
+.pic_o_steak {
+    height: 300px;
+    width: 250px;
+    position: relative;
+    bottom: 30px;
+}
